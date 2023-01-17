@@ -8,6 +8,7 @@ h1{
     font-weight: bolder;
     font-style: italic;
     font-size: 200%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h2{
     background-color: aquamarine;
